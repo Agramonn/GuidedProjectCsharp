@@ -1,0 +1,14 @@
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\bin\Debug\net7.0\GuidedProject.exe
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\bin\Debug\net7.0\GuidedProject.deps.json
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\bin\Debug\net7.0\GuidedProject.runtimeconfig.json
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\bin\Debug\net7.0\GuidedProject.dll
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\bin\Debug\net7.0\GuidedProject.pdb
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfoInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfo.cs
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.dll
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\refint\GuidedProject.dll
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.pdb
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\GuidedProject.genruntimeconfig.cache
+C:\Users\buyer\Documents\CsharpProjects\GuidedProject\obj\Debug\net7.0\ref\GuidedProject.dll
